@@ -73,8 +73,11 @@
 // let obj = { name: 'ulfat' }             object
 // let arr = ['a', 'b', 'c']               function
 // console.log(typeof year);
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> bdcc81d4d72886cb402df957d7a5be35b7f87661
